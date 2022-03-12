@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ruveix
+- 👋 Hello, I’m Nilay from MIT, 1st year.
 - 👀 I’m a novice and looking forward to learn.
 - 🌱 I’m currently learning C language
 
